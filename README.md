@@ -1,7 +1,7 @@
 ### Hi there, I'm Semere <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Software Developer 
+## and I'm a Software Developer 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
