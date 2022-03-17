@@ -35,8 +35,6 @@
 <br>
 <br>
 
-[![Semere's GitHub stats](https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&theme=tokyonight)](https://github.com/semeret627/github-readme-stats)
-
 [website]: https://eshidigital.com
 [twitter]: https://twitter.com/semere627
 [instagram]: https://instagram.com/semere627
