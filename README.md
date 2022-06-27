@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m a passionate software engineer
-- ⚡ Fun fact: I love to watching football
+- ⚡ Fact: I love to watching football
 
 <h3>Things I code with</h3>
 <p>
