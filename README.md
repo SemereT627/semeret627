@@ -4,8 +4,8 @@
 ### and I'm a Software Engineer 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m a passionate software developer
-- ⚡ Fun fact: I love to watch football and play FPL
+- 👯 I’m a passionate software engineer
+- ⚡ Fun fact: I love to watching football
 
 <h3>Things I code with</h3>
 <p>
