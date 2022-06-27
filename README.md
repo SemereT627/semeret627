@@ -4,9 +4,6 @@
 
 ## Hi there, I'm Semere
 
-
-### and I'm a Software Engineer 
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m a passionate software engineer
 - ⚡ Fun fact: I love to watching football
