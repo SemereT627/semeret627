@@ -1,7 +1,7 @@
-### Hi there, I'm Semere <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hi there, I'm Semere
 
 
-## and I'm a Software Engineer 
+### and I'm a Software Engineer 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m a passionate software developer
