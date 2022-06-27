@@ -1,4 +1,4 @@
-### Hi there, I'm Semere <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Semere <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 
 ## and I'm a Software Engineer 
