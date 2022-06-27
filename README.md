@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SemereT627/semeret627/master/name.svg" alt="Semere Talegngeta" />
+</h1>
+
 ## Hi there, I'm Semere
 
 
