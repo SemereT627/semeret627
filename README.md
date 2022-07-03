@@ -4,6 +4,8 @@
 
 ## Hi there, I'm Semere Talegngeta
 
+<a href="https://app.daily.dev/Semere"><img src="https://github.com/SemereT627/SemereT627/blob/main/devcard.svg" width="200" alt="Semere Talegngeta's Dev Card"/></a>
+
 <p>I'm a Passionate software engineer.</p>
 
 <h3>Things I use</h3>
@@ -38,5 +40,3 @@
 [twitter]: https://twitter.com/semere627
 [instagram]: https://instagram.com/semere627
 [linkedin]: https://linkedin.com/in/semere-talegngeta
-
-<a href="https://app.daily.dev/Semere"><img src="https://api.daily.dev/devcards/aa3203f3e74d48d99e2f5bfd6b4accc1.png?r=pen" width="200" alt="Semere Talegngeta's Dev Card"/></a>
