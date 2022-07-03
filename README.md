@@ -2,13 +2,11 @@
   <img src="https://raw.githubusercontent.com/SemereT627/semeret627/master/name.svg" alt="Semere Talegngeta" />
 </h1>
 
-## Hi there, I'm Semere
+## Hi there, I'm Semere Talegngeta
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m a passionate software engineer
-- ⚡ Fact: I love to watching football
+<p>I'm a Passionate software engineer.</p>
 
-<h3>Things I code with</h3>
+<h3>Things I use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -40,3 +38,5 @@
 [twitter]: https://twitter.com/semere627
 [instagram]: https://instagram.com/semere627
 [linkedin]: https://linkedin.com/in/semere-talegngeta
+
+<a href="https://app.daily.dev/Semere"><img src="https://api.daily.dev/devcards/aa3203f3e74d48d99e2f5bfd6b4accc1.png?r=pen" width="200" alt="Semere Talegngeta's Dev Card"/></a>
