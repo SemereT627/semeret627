@@ -26,7 +26,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer with much experience in MERN stack also Mobile app developer using Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I'm from Ethiopia.
+I am a mobile app developer using Flutter and indeed a Full Stack Developer from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ethiopia with strong background in the MERN stack.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
