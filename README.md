@@ -6,7 +6,7 @@
 
 <a href="https://app.daily.dev/Semere"><img src="https://github.com/SemereT627/SemereT627/blob/main/devcard.svg" width="200" alt="Semere Talegngeta's Dev Card"/></a>
 
-<p>I'm a Passionate software engineer.</p>
+<p>I'm a Passionate software developer with much experience in MERN stack application.</p>
 
 <h3>Things I use</h3>
 <p>
