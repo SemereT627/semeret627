@@ -53,6 +53,10 @@ I am a mobile app developer using Flutter and indeed a Full Stack Developer from
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
+<br />
+
+[![Semere's GitHub stats](https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&theme=tokyonight)](https://github.com/semeret627/github-readme-stats)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SemereT627&theme=dark&background=000000)](https://git.io/streak-stats)
