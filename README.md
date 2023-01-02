@@ -3,8 +3,6 @@
 </h1> -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="270" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://app.daily.dev/Semere"><img src="https://github.com/SemereT627/SemereT627/blob/main/devcard.svg" width="200" alt="Semere Talegngeta's Dev Card"/></a>
 </div>
 
@@ -26,9 +24,9 @@
 </div>
 
 ### :man_technologist: About Me
-I am a mobile app developer using Flutter and indeed a Full Stack Developer from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Ethiopia with strong background in the MERN stack.
+I'm a software developer currently working on web development using MERN stack and Flutter for mobile app development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a software developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
