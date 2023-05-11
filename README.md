@@ -41,7 +41,10 @@
 </div>          
 
 <br />
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&locale=en&theme=dark" alt="Semere Talegngeta" />                                                                                                                                                     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=semeret627&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=semeret627&layout=compact&theme=dark"/>
+
+<div style="text-align:justify;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&locale=en&theme=dark" alt="Semere Talegngeta" width=450 height=190 />     
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=semeret627&theme=dark" width=450 height=200/>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=semeret627&layout=compact&theme=dark" />
