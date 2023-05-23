@@ -4,10 +4,6 @@
 <a href="https://www.linkedin.com/in/semere-talegngeta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Semere's Linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Personal Stats</h3>
-
-[![wakatime](https://wakatime.com/badge/user/0d1c0afa-f378-493d-acfe-e4f8f7dc16e9.svg)](https://wakatime.com/@0d1c0afa-f378-493d-acfe-e4f8f7dc16e9)
-
 <h3 align="left">Languages and Tools that I use</h3>
 
 <div style="height:50px;">
