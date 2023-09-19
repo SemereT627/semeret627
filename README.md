@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semere Talegngeta</h1>
 <h3 align="center">Building the Web of Tomorrow: Crafting Seamless Experiences with Cutting-Edge Technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semeret627" alt="semeret627" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/semere627" target="blank"><img src="https://img.shields.io/twitter/follow/semere627?logo=twitter&style=for-the-badge" alt="semere627" /></a> </p>
 
 - 🔭 I’m currently working on **pretty much everything related to web**
