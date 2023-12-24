@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **pretty much everything related to web**
 
-- 🌱 I’m currently learning **Angular with .NET Core Development**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **open source and web development**
 
