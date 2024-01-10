@@ -1,23 +1,8 @@
-<h1 align="center">Hello 👋, I'm Semere Talegngeta</h1>
-<h3 align="center">Graduated Software Engineer | Experienced Full Stack Developer</h3>
+| <div><h1>Hello 👋, I'm Semere Talegngeta</h1><h3>Graduated Software Engineer \| Experienced Full Stack Developer</h3>     <p> <a href="https://twitter.com/semere627" target="blank"><img src="https://img.shields.io/twitter/follow/semere627?logo=twitter&style=for-the-badge" alt="semere627" /></a></p>  - 🔭 I’m currently working on **pretty much everything related to web** - 🌱 I’m currently learning **Django** - 👯 I’m looking to collaborate on **open source and web development** - 💬 You can ask me about **React.js and MERN stack** - 📫 How to reach me \*\* - ⚡ Fun fact **Why did the JavaScript developer bring a ladder? Because they heard they needed to "raise" their skills to reach the next level!**  <h3 align="left">We can chat on</h3> <p align="left"> <a href="https://twitter.com/semere627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semere627" height="30" width="40" /></a> <a href="https://linkedin.com/in/semere-talegngeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semere-talegngeta" height="30" width="40" /></a> <a href="https://medium.com/@semeret627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@semeret627" height="30" width="40" /></a>  </p>  </div> | <div>   <a href="https://app.daily.dev/semere627"><img src="https://api.daily.dev/devcards/972f8ef76f2341a7886c29ec78a6a700.png?r=q3q" alt="Semere Talegngeta's Dev Card"/></a></div>  </div> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<p align="center"> <a href="https://twitter.com/semere627" target="blank"><img src="https://img.shields.io/twitter/follow/semere627?logo=twitter&style=for-the-badge" alt="semere627" /></a></p>
 
-- 🔭 I’m currently working on **pretty much everything related to web**
-- 🌱 I’m currently learning **Django**
-- 👯 I’m looking to collaborate on **open source and web development**
-- 💬 You can ask me about **React.js and MERN stack**
-- 📫 How to reach me **se.semere.talegngeta@gmail.com**
-- ⚡ Fun fact **Why did the JavaScript developer bring a ladder? Because they heard they needed to "raise" their skills to reach the next level!**
-
-<h3 align="left">We can chat on</h3>
-<p align="left">
-<a href="https://twitter.com/semere627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="semere627" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/semere-talegngeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semere-talegngeta" height="30" width="40" /></a>
-<a href="https://medium.com/@se.semere.talegngeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@se.semere.talegngeta" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Things that I use</h3>
+<h3 align="left">Tools I use</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -43,6 +28,7 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=semeret627&theme=nord" alt="GitHub Streak" /></a>
+
 
 <div align="center">
 <a>
