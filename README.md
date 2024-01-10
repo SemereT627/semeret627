@@ -27,16 +27,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=semeret627&theme=nord" alt="GitHub Streak" /></a>
-
 
 <div align="center">
 <a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SemereT627&theme=codeSTACKr&exclude=html" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SemereT627&theme=codeSTACKr" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api?username=semeret627&theme=codeSTACKr&show_icons=true" width="32.5%">  
+<img src="https://streak-stats.demolab.com?user=semeret627&theme=nord" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=semeret627&theme=codeSTACKr&show_icons=true" width="48%"  />   
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SemereT627&theme=codeSTACKr" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SemereT627&theme=codeSTACKr&exclude=html" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SemereT627&theme=codeSTACKr" />
 </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SemereT627&theme=codeSTACKr)
+
 
 </div>
