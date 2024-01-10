@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Semere Talegngeta</h1>
+<h1 align="center">Hello 👋, I'm Semere Talegngeta</h1>
 <h3 align="center">Graduated Software Engineer | Experienced Full Stack Developer</h3>
 
 <p align="center"> <a href="https://twitter.com/semere627" target="blank"><img src="https://img.shields.io/twitter/follow/semere627?logo=twitter&style=for-the-badge" alt="semere627" /></a></p>
