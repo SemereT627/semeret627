@@ -4,7 +4,7 @@
 <h1>Hi there 👋, I'm Semere Talegngeta</h1>
 <h3>Software Engineer | Full Stack Developer</h3>
 
-<p>I'm a highly skilled professional with years of experience in the industry. With a passion for innovation and a dedication to excellence, made significant contributions in various roles throughout my career.</p>
+<p>Highly skilled professional with years of experience in the industry. With a passion for innovation and a dedication to excellence, made significant contributions in various roles throughout my career.</p>
 
 <p>I am enthusiastic about connecting with like-minded professionals, exploring new opportunities, and making meaningful contributions to the success of organizations. Let's connect and explore how we can collaborate to achieve remarkable results together.</p>
 
