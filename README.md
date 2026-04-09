@@ -3,11 +3,29 @@
 <td width="60%" valign="top">
 
 # Hi there 👋, I'm Semere Talegngeta  
-### Software Engineer | Full Stack Developer  
+### 🚀 Software Engineer | Full Stack | Systems Builder  
 
-I’m a passionate software engineer with strong experience building scalable and impactful applications. I enjoy solving real-world problems, learning new technologies, and contributing to meaningful projects.
+I build **scalable, production-grade applications** across web and mobile.
 
-I'm always open to collaboration, new opportunities, and connecting with like-minded professionals.
+- 🏢 Software Engineer @ **Byond (UAE)**
+- ⚡ Experience with **serverless architecture (AWS Lambda, SQS, Kinesis)**
+- 🧠 Strong focus on **system design, performance, and scalability**
+- 👨‍💻 Former **Tech Lead & COO** leading teams and delivering products
+
+---
+
+### 🔥 What I Do Best
+- Architect and build **full-stack systems (Next.js, Node.js, NestJS)**
+- Design **event-driven & serverless architectures**
+- Optimize backend performance using **queues & async processing**
+- Build **real-world products used by businesses and users**
+
+---
+
+### 🧠 Currently Working On
+- ⚡ Exploring **TanStack Start** (modern full-stack architecture)
+- 🏗️ Deepening **system design & distributed systems**
+- ☁️ Scaling applications with **AWS serverless stack**
 
 ---
 
@@ -17,31 +35,48 @@ I'm always open to collaboration, new opportunities, and connecting with like-mi
   <a href="https://www.linkedin.com/in/semere-talegngeta/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/></a>
   <a href="https://www.instagram.com/semere627/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/></a>
   <a href="https://medium.com/@se.semere.talegngeta"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="28"/></a>
-  <a href="https://www.geeksforgeeks.org/user/semeretalegngeta/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="28"/></a>
+  <a href="https://github.com/semeret627"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="28"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-</p>
+### 🛠️ Core Tech Stack
+**Frontend**
+- React, Next.js, Tailwind, TypeScript
+
+**Backend**
+- Node.js, NestJS, Express
+
+**Cloud & Infra**
+- AWS (Lambda, SQS, Kinesis, S3), Docker
+
+**Databases**
+- PostgreSQL, MongoDB, Redis
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Gobyond (AI Recruitment Platform)
+- AI-powered interview system with real-time video interaction
+- Built scalable backend using **AWS Lambda + SQS**
+- Implemented **face detection & comparison system**
+
+#### 🔹 Rent.et (Property Management System)
+- Full automation for landlords (leases, payments, tenants)
+- Built full-stack system with scalable architecture
+
+#### 🔹 Lommi (Healthcare Crowdfunding)
+- Platform enabling global & local fundraising for surgeries
+- Focused on accessibility and real-world impact
+
+#### 🔹 Kelati (E-commerce Platform)
+- Full-featured e-commerce system with:
+  - Product variations
+  - Elasticsearch search
+  - Inventory + payment system
+
+---
 
 </td>
 
@@ -59,7 +94,7 @@ I'm always open to collaboration, new opportunities, and connecting with like-mi
 
 <br/>
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SemereT627&theme=codeSTACKr" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=semeret627&theme=react-dark" />
 
 </td>
 </tr>
