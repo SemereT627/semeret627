@@ -3,78 +3,53 @@
 <td width="60%" valign="top">
 
 # Hi there 👋, I'm Semere Talegngeta  
+
 ### 🚀 Software Engineer | Full Stack | Systems Builder  
 
-I build **scalable, production-grade applications** across web and mobile.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Building+Scalable+Systems;Full+Stack+Engineer;AWS+%7C+Next.js+%7C+Node.js" />
+
+---
+
+I build **scalable, production-grade applications** using modern full-stack and cloud technologies.
 
 - 🏢 Software Engineer @ **Byond (UAE)**
-- ⚡ Experience with **serverless architecture (AWS Lambda, SQS, Kinesis)**
-- 🧠 Strong focus on **system design, performance, and scalability**
-- 👨‍💻 Former **Tech Lead & COO** leading teams and delivering products
+- ⚡ Serverless systems with **AWS Lambda, SQS, Kinesis**
+- 🧠 Focused on **system design & performance**
+- 👨‍💻 Experience leading teams & shipping real products
 
 ---
 
-### 🔥 What I Do Best
-- Architect and build **full-stack systems (Next.js, Node.js, NestJS)**
-- Design **event-driven & serverless architectures**
-- Optimize backend performance using **queues & async processing**
-- Build **real-world products used by businesses and users**
+### 🧠 Currently
+- ⚡ Exploring **TanStack Start**
+- ☁️ Deepening **AWS serverless architecture**
+- 🏗️ Learning **distributed systems design**
 
 ---
 
-### 🧠 Currently Working On
-- ⚡ Exploring **TanStack Start** (modern full-stack architecture)
-- 🏗️ Deepening **system design & distributed systems**
-- ☁️ Scaling applications with **AWS serverless stack**
-
----
-
-### 🌐 Connect with me
+### 🌐 Connect
 <p>
-  <a href="https://twitter.com/semere627"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28"/></a>
-  <a href="https://www.linkedin.com/in/semere-talegngeta/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/></a>
-  <a href="https://www.instagram.com/semere627/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/></a>
-  <a href="https://medium.com/@se.semere.talegngeta"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="28"/></a>
-  <a href="https://github.com/semeret627"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="28"/></a>
+  <a href="https://twitter.com/semere627"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/semere-talegngeta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@se.semere.talegngeta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Core Tech Stack
-**Frontend**
-- React, Next.js, Tailwind, TypeScript
-
-**Backend**
-- Node.js, NestJS, Express
-
-**Cloud & Infra**
-- AWS (Lambda, SQS, Kinesis, S3), Docker
-
-**Databases**
-- PostgreSQL, MongoDB, Redis
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,aws,docker,postgres,mongodb,redis,tailwind" />
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Work
 
-#### 🔹 Gobyond (AI Recruitment Platform)
-- AI-powered interview system with real-time video interaction
-- Built scalable backend using **AWS Lambda + SQS**
-- Implemented **face detection & comparison system**
+**🔹 Gobyond (AI Recruitment Platform)**  
+Built scalable backend with **AWS Lambda + SQS**, including **face detection & real-time video interviews**
 
-#### 🔹 Rent.et (Property Management System)
-- Full automation for landlords (leases, payments, tenants)
-- Built full-stack system with scalable architecture
+**🔹 Rent.et (Property Management System)**  
+Automated tenant workflows, payments, and lease systems at scale
 
-#### 🔹 Lommi (Healthcare Crowdfunding)
-- Platform enabling global & local fundraising for surgeries
-- Focused on accessibility and real-world impact
-
-#### 🔹 Kelati (E-commerce Platform)
-- Full-featured e-commerce system with:
-  - Product variations
-  - Elasticsearch search
-  - Inventory + payment system
+**🔹 Kelati (E-commerce Platform)**  
+Full system with **Elasticsearch**, inventory management, and product variations
 
 ---
 
@@ -86,15 +61,11 @@ I build **scalable, production-grade applications** across web and mobile.
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=semeret627&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=semeret627&theme=codeSTACKr&show_icons=true" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=semeret627&theme=react-dark" />
+<img src="https://streak-stats.demolab.com?user=semeret627&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
