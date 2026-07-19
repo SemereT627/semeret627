@@ -1,72 +1,68 @@
 <table>
-<tr>
-<td width="60%" valign="top">
+  <tr>
+    <td width="60%" valign="top">
 
-# Hi there 👋, I'm Semere Talegngeta  
+      # Hi there 👋, I'm Semere Talegngeta
 
-### 🚀 Software Engineer | Full Stack | Systems Builder  
+      ### 🚀 Frontend Engineer | React | React Native | TanStack
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Building+Scalable+Systems;Full+Stack+Engineer;AWS+%7C+Next.js+%7C+Node.js" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&lines=Building+Great+Frontends;React+%7C+React+Native;TanStack+Start+Explorer" />
 
----
+      ---
 
-I build **scalable, production-grade applications** using modern full-stack and cloud technologies.
+      I build **fast, polished, production-grade frontends** for web and mobile.
 
-- 🏢 Software Engineer @ **Byond (UAE)**
-- ⚡ Serverless systems with **AWS Lambda, SQS, Kinesis**
-- 🧠 Focused on **system design & performance**
-- 👨‍💻 Experience leading teams & shipping real products
+      - 🏢 Frontend Engineer @ **Digicom Intelligent Systems**
+      - ⚡ Currently working with **TanStack Start** and **React Native**
+      - 🧠 Focused on **UI architecture, performance & DX**
 
----
+      ---
 
-### 🧠 Currently
-- ⚡ Exploring **TanStack Start**
-- ☁️ Deepening **AWS serverless architecture**
-- 🏗️ Learning **distributed systems design**
+      ### 🧠 Currently
+      - ⚡ Building with **TanStack Start**
+      - 📱 Developing cross-platform apps with **React Native**
+      - 🎨 Sharpening frontend architecture & performance skills
 
----
+      ---
 
-### 🌐 Connect
-<p>
-  <a href="https://twitter.com/semere627"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/semere-talegngeta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@se.semere.talegngeta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
+      ### 🌐 Connect
+      <p>
+      <a href="https://twitter.com/semere627"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/semere-talegngeta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://medium.com/@se.semere.talegngeta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+      </p>
 
----
+      ---
 
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,aws,docker,postgres,mongodb,redis,tailwind" />
+      ### 🛠️ Tech Stack
+      <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nextjs,nodejs,nestjs,aws,docker,postgres,mongodb,redis,tailwind" />
 
----
+      ---
 
-### 🚀 Featured Work
+      ### 🚀 Featured Work
 
-**🔹 Gobyond (AI Recruitment Platform)**  
-Built scalable backend with **AWS Lambda + SQS**, including **face detection & real-time video interviews**
+      **🔹 Fleet Management System**
+      Building a fleet management platform with **React Native** and **TanStack Start** for cross-platform tracking and operations
 
-**🔹 Rent.et (Property Management System)**  
-Automated tenant workflows, payments, and lease systems at scale
+      ---
 
-**🔹 Kelati (E-commerce Platform)**  
-Full system with **Elasticsearch**, inventory management, and product variations
+      </td>
 
----
+      <td width="40%" valign="top" align="center">
 
-</td>
+      <a href="https://daily.dev/semere627"><img src="https://api.daily.dev/devcards/v2/oVR5Tc4kbZhzRSC2cMkSf.png?r=t5d&type=default" width="356" alt="Semere Talegngeta's Dev Card"/></a>
 
-<td width="40%" valign="top" align="center">
+      <br/><br/>
 
-<a href="https://daily.dev/semere627"><img src="https://api.daily.dev/devcards/v2/oVR5Tc4kbZhzRSC2cMkSf.png?r=t5d&type=default" width="356" alt="Semere Talegngeta's Dev Card"/></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
-<br/><br/>
+      <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=semeret627&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=semeret627&theme=tokyonight&hide_border=true" width="100%" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=semeret627&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-</tr>
+      </td>
+      </tr>
+      </table>
+      
+  </tr>
 </table>
