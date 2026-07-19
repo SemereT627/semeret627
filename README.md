@@ -57,7 +57,7 @@ Full system with **Elasticsearch**, inventory management, and product variations
 
 <td width="40%" valign="top" align="center">
 
-<img width="100%" src="https://api.daily.dev/devcards/972f8ef76f2341a7886c29ec78a6a700.png?r=q3q" />
+<a href="https://daily.dev/semere627"><img src="https://api.daily.dev/devcards/v2/oVR5Tc4kbZhzRSC2cMkSf.png?r=t5d&type=default" width="356" alt="Semere Talegngeta's Dev Card"/></a>
 
 <br/><br/>
 
